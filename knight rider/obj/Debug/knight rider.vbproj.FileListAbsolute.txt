@@ -1,0 +1,14 @@
+C:\Users\user1\Desktop\visual basic\knight rider\knight rider\bin\Debug\knight rider.exe.config
+C:\Users\user1\Desktop\visual basic\knight rider\knight rider\obj\Debug\knight_rider.Form1.resources
+C:\Users\user1\Desktop\visual basic\knight rider\knight rider\obj\Debug\knight_rider.Resources.resources
+C:\Users\user1\Desktop\visual basic\knight rider\knight rider\obj\Debug\knight rider.vbproj.GenerateResource.Cache
+C:\Users\user1\Desktop\visual basic\knight rider\knight rider\bin\Debug\knight rider.exe
+C:\Users\user1\Desktop\visual basic\knight rider\knight rider\bin\Debug\knight rider.pdb
+C:\Users\user1\Desktop\visual basic\knight rider\knight rider\bin\Debug\knight rider.xml
+C:\Users\user1\Desktop\visual basic\knight rider\knight rider\obj\Debug\knight rider.exe
+C:\Users\user1\Desktop\visual basic\knight rider\knight rider\obj\Debug\knight rider.xml
+C:\Users\user1\Desktop\visual basic\knight rider\knight rider\obj\Debug\knight rider.pdb
+C:\Users\user1\Documents\visual basic\knight rider\knight rider\bin\Debug\knight rider.exe.config
+C:\Users\user1\Documents\visual basic\knight rider\knight rider\obj\Debug\knight rider.exe
+C:\Users\user1\Documents\visual basic\knight rider\knight rider\obj\Debug\knight rider.xml
+C:\Users\user1\Documents\visual basic\knight rider\knight rider\obj\Debug\knight rider.pdb
